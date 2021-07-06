@@ -24,8 +24,6 @@ section {
 }
 .head-introduction img {
   width: 70%;
-  position: relative;
-  margin-left: 30px;
 }
 .order-food {
   margin-top: 200px;
@@ -35,4 +33,20 @@ section {
   border-radius: 20px;
   font-weight: 500;
   color: white;
+}
+
+.second-image img {
+  width: 60%;
+}
+.back-banner {
+  background-image: url(images/Frame\ 56.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+#recepie-head {
+  text-align: center;
+}
+.recepie-text {
+  position: ;
 }
