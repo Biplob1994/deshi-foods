@@ -1,0 +1,38 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.orange-color {
+  color: orange;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  color: grey;
+}
+.less-margin {
+  margin-top: -60px;
+}
+
+section {
+  display: flex;
+}
+.head-introduction {
+  width: 50%;
+  margin-left: 20px;
+  margin-right: 10px;
+  padding: 0 10px;
+}
+.head-introduction img {
+  width: 70%;
+  position: relative;
+  margin-left: 30px;
+}
+.order-food {
+  margin-top: 200px;
+  text-decoration: none;
+  background-image: linear-gradient(tomato, orange);
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 500;
+  color: white;
+}
